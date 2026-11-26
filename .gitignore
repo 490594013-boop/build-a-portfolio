@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.pylibs/
+.venv/
+
+# macOS
+.DS_Store
+._*
+
+# 由脚本生成的中间产物
+*.pdf
+!assets/*.pdf
